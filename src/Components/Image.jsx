@@ -1,6 +1,5 @@
 import React from "react";
-import Placeholder from "./../assets/Placeholder.jpg";
-import { Button } from "react-bootstrap";
+import Placeholder from "./../assets/Placeholder.jpg"
 
 
 function Image({image,title,description}) {
@@ -19,13 +18,6 @@ function Image({image,title,description}) {
         </div>
      </div>
      </div>
-        <div style={{margin:"10px auto", }}>
-        <Button variant="primary" type="submit" style={{backgroundColor:"#212529", borderColor:"#212529"}}>
-        Dashboard
-      </Button>
-        </div>
-      
-      
     </>
 }
 
