@@ -1,8 +1,11 @@
-# React + Vite
+# Axio crud app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is blog app created using axio.
+Mockapi is used to store data,
 
-Currently, two official plugins are available:
+Can do crud Operation in this website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.Create a blog in Create page
+2.then navigate to dashboard page, here all created blogs are shown in this page with edit and delete option
+3.When click edit, page navigate to edit page after update page navigates to home page.
+4.Home page is main page, here we can see all blogs.
